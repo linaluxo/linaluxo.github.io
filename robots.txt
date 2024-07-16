@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://linaluxo.github.io/sitemap
+Sitemap: https://linaluxo.github.io/app/sitemap
+Sitemap: https://linaluxo.github.io/assets/sitemap
+Sitemap: https://linaluxo.github.io/css/sitemap
+Sitemap: https://linaluxo.github.io/includes/sitemap
+Sitemap: https://linaluxo.github.io/item/sitemap
+Sitemap: https://linaluxo.github.io/src/sitemap
